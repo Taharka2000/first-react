@@ -1,0 +1,19 @@
+
+.title{
+    color:wheat;
+}
+p{
+    color: wheat;
+    font-size: x-large;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: right;
+    padding-top: 150px;
+}
+.button{
+    border-radius: 10px;
+    background-color: wheat;
+}
